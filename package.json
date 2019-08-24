@@ -1,0 +1,25 @@
+{
+    "name": "virtual-dom-diff",
+    "version": "0.1.0",
+    "description": "simple virtual DOM diff",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "node test/index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/neact/virtual-dom-diff.git"
+    },
+    "keywords": [
+        "dom-diff",
+        "virtual-dom",
+        "diff",
+        "diff-dom"
+    ],
+    "author": "nobo.zhou@foxmail.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/neact/virtual-dom-diff/issues"
+    },
+    "homepage": "https://github.com/neact/virtual-dom-diff#readme"
+}
