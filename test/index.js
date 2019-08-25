@@ -177,6 +177,7 @@ const options = {
         { tag: "div", id: 1 },
         { tag: "span", id: 2, key: "c" },
         { tag: "p", id: 3, key: "b" },
+        { tag: "p1", id: 33, key: "b" },
         { tag: "div", id: 4 },
         { tag: "div", id: 5, key: "a" },
         { tag: "div", id: 6 }
@@ -192,6 +193,7 @@ const options = {
         "UPDATE",
         "UPDATE",
         "MOVE",
+        "INSERT",
         "UPDATE",
         "MOVE",
         "UPDATE",
